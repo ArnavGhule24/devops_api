@@ -1,0 +1,178 @@
+[
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 2083",
+        "depTime": "23:15",
+        "source": "Mumbai",
+        "duration": "02 h 25 m",
+        "type": "Non stop",
+        "arrivalTime": "01:40+ 1 DAY",
+        "destination": "New Delhi",
+        "rate": "₹ 5,845"
+    },
+    {
+        "company": "AirAsia",
+        "flightNo": "I5 1569, I5 749",
+        "depTime": "19:40",
+        "source": "Mumbai",
+        "duration": "05 h 45 m",
+        "type": "1 stop via Bengaluru",
+        "arrivalTime": "01:25+ 1 DAY",
+        "destination": "New Delhi",
+        "rate": "₹ 5,855"
+    },
+    {
+        "company": "Go First",
+        "flightNo": "G8 345",
+        "depTime": "22:55",
+        "source": "Mumbai",
+        "duration": "02 h 10 m",
+        "type": "Non stop",
+        "arrivalTime": "01:05+ 1 DAY",
+        "destination": "New Delhi",
+        "rate": "₹ 5,856"
+    },
+    {
+        "company": "Go First",
+        "flightNo": "G8 2508",
+        "depTime": "23:45",
+        "source": "Mumbai",
+        "duration": "02 h 15 m",
+        "type": "Non stop",
+        "arrivalTime": "02:00+ 1 DAY",
+        "destination": "New Delhi",
+        "rate": "₹ 5,856"
+    },
+    {
+        "company": "Vistara",
+        "flightNo": "UK 986",
+        "depTime": "23:10",
+        "source": "Mumbai",
+        "duration": "01 h 50 m",
+        "type": "Non stop",
+        "arrivalTime": "01:00+ 1 DAY",
+        "destination": "New Delhi",
+        "rate": "₹ 5,943"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 2111",
+        "depTime": "02:30",
+        "source": "Mumbai",
+        "duration": "02 h 15 m",
+        "type": "Non stop",
+        "arrivalTime": "04:45",
+        "destination": "New Delhi",
+        "rate": "₹ 5,952"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 2056",
+        "depTime": "05:00",
+        "source": "Mumbai",
+        "duration": "02 h 15 m",
+        "type": "Non stop",
+        "arrivalTime": "07:15",
+        "destination": "New Delhi",
+        "rate": "₹ 5,952"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 2015",
+        "depTime": "12:40",
+        "source": "Mumbai",
+        "duration": "02 h 20 m",
+        "type": "Non stop",
+        "arrivalTime": "15:00",
+        "destination": "New Delhi",
+        "rate": "₹ 5,952"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 154, 6E 2165",
+        "depTime": "23:50",
+        "source": "Mumbai",
+        "duration": "06 h 50 m",
+        "type": "1 stop via Jaipur",
+        "arrivalTime": "06:40+ 1 DAY",
+        "destination": "New Delhi",
+        "rate": "₹ 6,131"
+    },
+    {
+        "company": "SpiceJet",
+        "flightNo": "SG 8702",
+        "depTime": "10:05",
+        "source": "Mumbai",
+        "duration": "02 h 15 m",
+        "type": "Non stop",
+        "arrivalTime": "12:20",
+        "destination": "New Delhi",
+        "rate": "₹ 7,306"
+    },
+    {
+        "company": "SpiceJet",
+        "flightNo": "SG 8158",
+        "depTime": "21:10",
+        "source": "Mumbai",
+        "duration": "02 h 10 m",
+        "type": "Non stop",
+        "arrivalTime": "23:20",
+        "destination": "New Delhi",
+        "rate": "₹ 7,306"
+    },
+    {
+        "company": "Akasa Air",
+        "flightNo": "QP 1127",
+        "depTime": "13:25",
+        "source": "Mumbai",
+        "duration": "02 h 05 m",
+        "type": "Non stop",
+        "arrivalTime": "15:30",
+        "destination": "New Delhi",
+        "rate": "₹ 7,307"
+    },
+    {
+        "company": "Go First",
+        "flightNo": "G8 329",
+        "depTime": "05:50",
+        "source": "Mumbai",
+        "duration": "02 h 10 m",
+        "type": "Non stop",
+        "arrivalTime": "08:00",
+        "destination": "New Delhi",
+        "rate": "₹ 7,308"
+    },
+    {
+        "company": "Go First",
+        "flightNo": "G8 327",
+        "depTime": "08:45",
+        "source": "Mumbai",
+        "duration": "02 h 10 m",
+        "type": "Non stop",
+        "arrivalTime": "10:55",
+        "destination": "New Delhi",
+        "rate": "₹ 7,308"
+    },
+    {
+        "company": "Air India",
+        "flightNo": "AI 866",
+        "depTime": "09:00",
+        "source": "Mumbai",
+        "duration": "02 h 20 m",
+        "type": "Non stop",
+        "arrivalTime": "11:20",
+        "destination": "New Delhi",
+        "rate": "₹ 7,308"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 5219",
+        "depTime": "09:30",
+        "source": "Mumbai",
+        "duration": "02 h 15 m",
+        "type": "Non stop",
+        "arrivalTime": "11:45",
+        "destination": "New Delhi",
+        "rate": "₹ 7,308"
+    }
+]
