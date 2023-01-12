@@ -122,7 +122,7 @@ def flightScrape(source,destination):
 
     driver.find_element(By.XPATH,'//*[@id="SW"]/div[1]/div[1]/ul/li[4]/div[2]').click()
     time.sleep(4.0)
-    driver.find_element(By.XPATH,'/html/body/div[1]/div/div[2]/div/div/div[2]/p/a').click()
+    driver.find_element(By.XPATH,'//*[@id="root"]/div/div[2]/div/div/div[2]/p/a').click()
     time.sleep(8.0)
 
     driver.find_element(By.XPATH,'//*[@id="root"]/div/div[2]/div[2]/div[2]/div/div/div[3]/button').click()
